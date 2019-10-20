@@ -29,7 +29,7 @@ def monopoly_with_third_tier
 	      :names => {
 	        :reading_railroad => {},
 	        :pennsylvania_railroad => {},
-	        :Leslie => "third",
+	        :b_and_o_railroad => {},
 	        :Lasanga => "fourth"
 	      },
 	      :rent_in_dollars => {
