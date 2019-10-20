@@ -33,7 +33,7 @@ def monopoly_with_third_tier
 	        :Lasanga => "fourth"
 	      },
 	      :rent_in_dollars => {
-	        :renters => "no-one",
+	        :one_piece_owned => 25,
 	        :rento => 2,
 	        :rented => 3,
 	        :renter => 4
