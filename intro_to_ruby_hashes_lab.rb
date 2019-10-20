@@ -31,7 +31,7 @@ def monopoly_with_third_tier
 	        :Margaret => "second",
 	        :Leslie => "third",
 	        :Lasanga => "fourth"
-	      }
+	      },
 	      :rent_in_dollars => {
 	        :renters => "no-one",
 	        :rento => 2,
